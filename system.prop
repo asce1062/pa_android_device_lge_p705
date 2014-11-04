@@ -1,0 +1,6 @@
+debug.camcorder.disablemeta=1
+ro.sf.hwrotation=180
+ro.sf.lcd_density=200
+##status bar translucency (revert to true of you dont need this)##
+ro.config.low_ram=false
+ 
