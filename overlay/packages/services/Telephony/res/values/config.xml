@@ -24,9 +24,6 @@
     <!-- Flag indicating if the tty is enabled -->
     <bool name="tty_enabled">true</bool>
 
-    <!-- Display carrier settings menu if true -->
-    <bool name="config_carrier_settings_enable">true</bool>
-
     <!-- Flag whether to enable Proximity setting-->
     <bool name="config_proximity_enable" translatable="false">true</bool>
 </resources>
